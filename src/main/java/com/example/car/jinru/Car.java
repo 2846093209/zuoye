@@ -6,13 +6,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
 
 import java.io.Serializable;
 
-/**
- * @ClassName Car
- * @Desc
- * @Date 2023/11/26 17:45
- * @Version 1.0
- * 你我山巅自相逢
- **/
+
 @TableName("car")
 public class Car implements Serializable {
     private static final long serialVersionUID = 1L;

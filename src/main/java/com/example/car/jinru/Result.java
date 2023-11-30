@@ -4,13 +4,7 @@ package com.example.car.jinru;
 import com.baomidou.mybatisplus.core.toolkit.StringUtils;
 
 import java.io.Serializable;
-/**
- * @ClassName Result
- * @Desc
- * @Date 2023/11/26 17:45
- * @Version 1.0
- * 你我山巅自相逢
- **/
+
 public class Result<T> implements Serializable{
 
     private static final long serialVersionUID = 1L;
